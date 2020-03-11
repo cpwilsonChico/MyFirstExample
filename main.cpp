@@ -10,6 +10,10 @@ int main()
 
     int x,y;
 
+    while (1) {
+
+    }
+
     cin >> x >> y;
     cout << x / y << endl;
 
