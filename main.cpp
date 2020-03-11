@@ -14,8 +14,8 @@ int main()
 
     }
 
-    cin >> x >> y;
-    cout << x / y << endl;
+    cin >> x;
+    cout << x / 0 << endl;
 
     return 0;
 }
